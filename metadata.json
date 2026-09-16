@@ -1,0 +1,6 @@
+{
+  "name": "Audit Flow",
+  "description": "Contract Variation & Compliance Monitoring System for government procurement authorities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
